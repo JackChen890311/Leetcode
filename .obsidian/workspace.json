@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "e9f91abce8649e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "b66cd85b7506f362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3996056045f1655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ba65187b3b3409d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a7b99951560944",
+    "type": "split",
+    "children": [
+      {
+        "id": "007dc7990efe3ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c783aa125bef7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adb6ecddcaadbd6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43ba167d263eae09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59fccfa7edee5017",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dbbe20409831a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa3bc3981406c55e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93344c3384f3ef2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4989766d7b37ff56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b71ff1f0f747056",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "random-note:開始漫遊筆記": false
+    }
+  },
+  "active": "a3996056045f1655",
+  "lastOpenFiles": [
+    "Questions.md",
+    "Resources.md",
+    "README.md",
+    "Questions/1647. Minimum Deletions to Make Character Frequencies Unique (M).md",
+    "Questions/2785. Sort Vowels in a String (M).md",
+    "2785. Sort Vowels in a String (M).md",
+    "Questions/543. Diameter of Binary Tree (E).md",
+    "Questions/322. Coin Change (M).md",
+    "Questions/171. Excel Sheet Column Number (E).md",
+    "Questions/168. Excel Sheet Column Title (E).md",
+    "Questions/137. Single Number II (M).md",
+    "Questions/66. Plus One (E).md",
+    "Questions/938. Range Sum of BST (E).md",
+    "Questions/1657. Determine if Two Strings Are Close (M).md",
+    "Questions/980. Unique Paths III (H).md",
+    "Template/Temp - Questions.md",
+    "Questions/1347. Minimum Number of Steps to Make Two Strings Anagram (M).md",
+    "Template",
+    "Questions/877. Stone Game (M).md",
+    "Questions/2542. Maximum Subsequence Score (M).md",
+    "Questions/1383. Maximum Performance of a Team (H).md",
+    "Questions/714. Best Time to Buy and Sell Stock with Transaction Fee (M).md",
+    "Questions/424. Longest Repeating Character Replacement (M).md",
+    "Questions/724. Find Pivot Index (E).md",
+    "Questions/783. Minimum Distance Between BST Nodes (E).md",
+    "Questions/530. Minimum Absolute Difference in BST (E).md",
+    "Questions/94. Binary Tree Inorder Traversal (E).md",
+    "topics.py"
+  ]
+}
