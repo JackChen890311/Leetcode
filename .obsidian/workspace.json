@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b66cd85b7506f362",
+        "id": "af1c1d8b26a0e591",
         "type": "tabs",
         "children": [
           {
-            "id": "a3996056045f1655",
+            "id": "bdfb7e2fab58c4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ba65187b3b3409d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "59fccfa7edee5017",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,35 +140,48 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "a3996056045f1655",
+  "active": "bdfb7e2fab58c4dc",
   "lastOpenFiles": [
+    "Images/Pasted image 20240201111517.png",
+    "Questions/997. Find the Town Judge (E).md",
+    "Questions/990. Satisfiability of Equality Equations (M).md",
+    "Questions/851. Loud and Rich (M).md",
+    "Questions/2966. Divide Array Into Arrays With Max Difference (M).md",
+    "Questions/2653. Sliding Subarray Beauty (M).md",
+    "Questions/2582. Pass the Pillow (E).md",
+    "Questions/2164. Sort Even and Odd Indices Independently (E).md",
+    "Questions/210. Course Schedule II (M).md",
+    "Questions/1780. Check if Number is a Sum of Powers of Three (M).md",
+    "2164. Sort Even and Odd Indices Independently (E).md",
+    "2582. Pass the Pillow (E).md",
+    "1780. Check if Number is a Sum of Powers of Three (M).md",
+    "2653. Sliding Subarray Beauty (M).md",
+    "997. Find the Town Judge (E).md",
     "Questions.md",
+    "2966. Divide Array Into Arrays With Max Difference (M).md",
+    "851. Loud and Rich (M).md",
+    "Questions/207. Course Schedule (M).md",
+    "990. Satisfiability of Equality Equations (M).md",
+    "210. Course Schedule II (M).md",
+    "Questions/200. Number of Islands (M).md",
+    "Pasted image 20240201111517.png",
+    "Pasted image 20240201111514.png",
+    "Topics.md",
     "Resources.md",
     "README.md",
-    "Questions/1647. Minimum Deletions to Make Character Frequencies Unique (M).md",
-    "Questions/2785. Sort Vowels in a String (M).md",
-    "2785. Sort Vowels in a String (M).md",
-    "Questions/543. Diameter of Binary Tree (E).md",
-    "Questions/322. Coin Change (M).md",
-    "Questions/171. Excel Sheet Column Number (E).md",
-    "Questions/168. Excel Sheet Column Title (E).md",
-    "Questions/137. Single Number II (M).md",
-    "Questions/66. Plus One (E).md",
-    "Questions/938. Range Sum of BST (E).md",
-    "Questions/1657. Determine if Two Strings Are Close (M).md",
-    "Questions/980. Unique Paths III (H).md",
-    "Template/Temp - Questions.md",
-    "Questions/1347. Minimum Number of Steps to Make Two Strings Anagram (M).md",
+    "Google Prep.md",
+    "Images/Pasted image 20240128143556.png",
+    "Questionsssss",
+    "moveAll.py",
+    "Images/Pasted image 20240127172519.png",
+    "Images/Pasted image 20240126151636.png",
+    "Pasted image 20240126151608.png",
+    "Images/Pasted image 20240126151318.png",
+    "Images/Pasted image 20240126151206.png",
+    "Pasted image 20240126151155.png",
+    "Images",
+    "Images/Pasted image 20240125141850.png",
     "Template",
-    "Questions/877. Stone Game (M).md",
-    "Questions/2542. Maximum Subsequence Score (M).md",
-    "Questions/1383. Maximum Performance of a Team (H).md",
-    "Questions/714. Best Time to Buy and Sell Stock with Transaction Fee (M).md",
-    "Questions/424. Longest Repeating Character Replacement (M).md",
-    "Questions/724. Find Pivot Index (E).md",
-    "Questions/783. Minimum Distance Between BST Nodes (E).md",
-    "Questions/530. Minimum Absolute Difference in BST (E).md",
-    "Questions/94. Binary Tree Inorder Traversal (E).md",
     "topics.py"
   ]
 }

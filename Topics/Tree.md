@@ -1,0 +1,1 @@
+- [Spanning Tree](https://web.ntnu.edu.tw/~algo/SpanningTree.html)

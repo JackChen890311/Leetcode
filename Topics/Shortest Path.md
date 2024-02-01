@@ -1,0 +1,3 @@
+- [Path](https://web.ntnu.edu.tw/~algo/Path.html)
+	- Usually on a graph
+	- Dijkstra's Algortihm

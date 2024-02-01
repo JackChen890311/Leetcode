@@ -1,0 +1,5 @@
+- [Leetcode刷題學習筆記 – Monotonic Stack](https://hackmd.io/@meyr543/rkjS-x6wY)
+- [【LeetCode】Monotonic Stack](https://ithelp.ithome.com.tw/articles/10263564?sc=iThelpR)
+- 元素 push 上 stack 前，會把破壞此 stack 單調性質（遞增或遞減）的元素移除
+- 可以找到已遍歷元素中，最靠近且比目前元素小 (遞增) / 大 (遞減)的元素 (previous / next  greater / less element)
+- 可以找到目前為止最小(遞增)/大(遞減)的元素

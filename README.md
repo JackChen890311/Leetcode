@@ -2,6 +2,7 @@
 > I used **Obsidian** to document my thoughts for each question.  
 > Use this as a starting point to navigate to other notes.  
 > Still working on it, feel free to contact me if you have any thoughts!  
+> Template for each question is at [[Temp - Questions]].  
 
 # [[Resources]]
 # [[Topics]]
