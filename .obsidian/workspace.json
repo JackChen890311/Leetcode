@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "af1c1d8b26a0e591",
+        "id": "9b20d4bb58f2c336",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfb7e2fab58c4dc",
+            "id": "67000a4801677aea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b5a5464fa63970f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1791. Find Center of Star Graph (E).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1791. Find Center of Star Graph (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1791. Find Center of Star Graph (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1791. Find Center of Star Graph (E).md"
+              }
             }
           }
         ],
@@ -140,47 +161,47 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "bdfb7e2fab58c4dc",
+  "active": "3b5a5464fa63970f",
   "lastOpenFiles": [
-    "Images/Pasted image 20240201111517.png",
-    "Questions/997. Find the Town Judge (E).md",
-    "Questions/990. Satisfiability of Equality Equations (M).md",
-    "Questions/851. Loud and Rich (M).md",
-    "Questions/2966. Divide Array Into Arrays With Max Difference (M).md",
-    "Questions/2653. Sliding Subarray Beauty (M).md",
-    "Questions/2582. Pass the Pillow (E).md",
-    "Questions/2164. Sort Even and Odd Indices Independently (E).md",
-    "Questions/210. Course Schedule II (M).md",
-    "Questions/1780. Check if Number is a Sum of Powers of Three (M).md",
-    "2164. Sort Even and Odd Indices Independently (E).md",
-    "2582. Pass the Pillow (E).md",
-    "1780. Check if Number is a Sum of Powers of Three (M).md",
-    "2653. Sliding Subarray Beauty (M).md",
-    "997. Find the Town Judge (E).md",
     "Questions.md",
-    "2966. Divide Array Into Arrays With Max Difference (M).md",
-    "851. Loud and Rich (M).md",
-    "Questions/207. Course Schedule (M).md",
-    "990. Satisfiability of Equality Equations (M).md",
-    "210. Course Schedule II (M).md",
-    "Questions/200. Number of Islands (M).md",
+    "1791. Find Center of Star Graph (E).md",
+    "Questions/1802. Maximum Value at a Given Index in a Bounded Array (M).md",
+    "Questions/3076. Shortest Uncommon Substring in an Array (M).md",
+    "Questions/3075. Maximize Happiness of Selected Children (M).md",
+    "Questions/3074. Apple Redistribution into Boxes (E).md",
+    "Questions/3072. Distribute Elements Into Two Arrays II (H).md",
+    "Questions/3005. Count Elements With Maximum Frequency (E).md",
+    "Questions/2540. Minimum Common Value (E).md",
+    "Questions/1750. Minimum Length of String After Deleting Similar Ends (M).md",
+    "Questions/948. Bag of Tokens (M).md",
+    "Questions/787. Cheapest Flights Within K Stops (M).md",
+    "Questions/349. Intersection of Two Arrays (E).md",
+    "3076. Shortest Uncommon Substring in an Array (M).md",
+    "3075. Maximize Happiness of Selected Children (M).md",
+    "3074. Apple Redistribution into Boxes (E).md",
+    "3072. Distribute Elements Into Two Arrays II (H).md",
+    "Topics.md",
+    "Topics/Binary Indexed Tree.md",
+    "Topics/Segment Tree.md",
+    "Questions/3071. Minimum Operations to Write the Letter Y on a Grid (M).md",
+    "Images/Pasted image 20240127172519.png",
+    "Questions/3070. Count Submatrices with Top-Left Element and Sum Less Than k (M).md",
+    "Questions/3069. Distribute Elements Into Two Arrays I (E).md",
+    "349. Intersection of Two Arrays (E).md",
+    "2540. Minimum Common Value (E).md",
+    "787. Cheapest Flights Within K Stops (M).md",
+    "Pasted image 20240209140500.png",
+    "Images/Pasted image 20240201111517.png",
     "Pasted image 20240201111517.png",
     "Pasted image 20240201111514.png",
-    "Topics.md",
-    "Resources.md",
-    "README.md",
-    "Google Prep.md",
     "Images/Pasted image 20240128143556.png",
     "Questionsssss",
     "moveAll.py",
-    "Images/Pasted image 20240127172519.png",
     "Images/Pasted image 20240126151636.png",
     "Pasted image 20240126151608.png",
     "Images/Pasted image 20240126151318.png",
     "Images/Pasted image 20240126151206.png",
-    "Pasted image 20240126151155.png",
     "Images",
-    "Images/Pasted image 20240125141850.png",
     "Template",
     "topics.py"
   ]
