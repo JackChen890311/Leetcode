@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1791. Find Center of Star Graph (E).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1791. Find Center of Star Graph (E).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1791. Find Center of Star Graph (E).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1791. Find Center of Star Graph (E).md"
+                "file": "README.md"
               }
             }
           }
@@ -164,6 +164,8 @@
   "active": "3b5a5464fa63970f",
   "lastOpenFiles": [
     "Questions.md",
+    "README.md",
+    "Resources.md",
     "1791. Find Center of Star Graph (E).md",
     "Questions/1802. Maximum Value at a Given Index in a Bounded Array (M).md",
     "Questions/3076. Shortest Uncommon Substring in an Array (M).md",
@@ -188,8 +190,6 @@
     "Questions/3070. Count Submatrices with Top-Left Element and Sum Less Than k (M).md",
     "Questions/3069. Distribute Elements Into Two Arrays I (E).md",
     "349. Intersection of Two Arrays (E).md",
-    "2540. Minimum Common Value (E).md",
-    "787. Cheapest Flights Within K Stops (M).md",
     "Pasted image 20240209140500.png",
     "Images/Pasted image 20240201111517.png",
     "Pasted image 20240201111517.png",
