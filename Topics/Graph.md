@@ -22,6 +22,7 @@
 			print(node)
 			return True
 	```
-- Minimum Spanning [[Tree]]: A tree that connects all the nodes in a graph with minimum value / weight
-	- Prim's Algorithm: starting at a node
-	- Kruskal's Algorithm: starting at minimum edge
+- [Spanning Tree](https://web.ntnu.edu.tw/~algo/SpanningTree.html)
+	- Minimum Spanning [[Tree]]: A tree that connects all the nodes in a graph with minimum value / weight
+		- Prim's Algorithm: starting at a node
+		- Kruskal's Algorithm: starting at minimum edge

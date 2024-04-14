@@ -9,9 +9,9 @@ class UF:
         self.count = N
 
     def union(self, x, y):
-	    if self.find(x) != self.find(y):
-	        self.parent[self.find(x)] = self.find(y)
-	        self.count -= 1
+        if self.find(x) != self.find(y):
+            self.parent[self.find(x)] = self.find(y)
+            self.count -= 1
 
     def find(self, x):
         final = x
@@ -23,5 +23,4 @@ class UF:
             self.parent[x] = final
             x = origin
         return final
-        
 ```

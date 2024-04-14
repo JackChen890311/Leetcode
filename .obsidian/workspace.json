@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9b20d4bb58f2c336",
+        "id": "68ec37a8ddd7e19f",
         "type": "tabs",
         "children": [
           {
-            "id": "67000a4801677aea",
+            "id": "57957c7662034f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Questions/79. Word Search (M).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b5a5464fa63970f",
+            "id": "81d957bc89d184c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Questions/678. Valid Parenthesis String (M).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa8e759e97804e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Monotonic Stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nonloca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Topics/Monotonic Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Topics/Monotonic Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Topics/Monotonic Stack.md"
               }
             }
           }
@@ -161,35 +173,37 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "3b5a5464fa63970f",
+  "active": "aa8e759e97804e5d",
   "lastOpenFiles": [
-    "Questions.md",
-    "README.md",
+    "Topics/Graph.md",
     "Resources.md",
-    "1791. Find Center of Star Graph (E).md",
-    "Questions/1802. Maximum Value at a Given Index in a Bounded Array (M).md",
-    "Questions/3076. Shortest Uncommon Substring in an Array (M).md",
-    "Questions/3075. Maximize Happiness of Selected Children (M).md",
-    "Questions/3074. Apple Redistribution into Boxes (E).md",
-    "Questions/3072. Distribute Elements Into Two Arrays II (H).md",
-    "Questions/3005. Count Elements With Maximum Frequency (E).md",
-    "Questions/2540. Minimum Common Value (E).md",
-    "Questions/1750. Minimum Length of String After Deleting Similar Ends (M).md",
-    "Questions/948. Bag of Tokens (M).md",
-    "Questions/787. Cheapest Flights Within K Stops (M).md",
-    "Questions/349. Intersection of Two Arrays (E).md",
-    "3076. Shortest Uncommon Substring in an Array (M).md",
-    "3075. Maximize Happiness of Selected Children (M).md",
-    "3074. Apple Redistribution into Boxes (E).md",
-    "3072. Distribute Elements Into Two Arrays II (H).md",
-    "Topics.md",
-    "Topics/Binary Indexed Tree.md",
-    "Topics/Segment Tree.md",
-    "Questions/3071. Minimum Operations to Write the Letter Y on a Grid (M).md",
+    "Topics/Heap (Priority Queue).md",
+    "Questions/79. Word Search (M).md",
+    "Questions/678. Valid Parenthesis String (M).md",
+    "README.md",
+    "Questions.md",
+    "Questions/3108. Minimum Cost Walk in Weighted Graph (H).md",
+    "Questions/3107. Minimum Operations to Make Median of Array Equal to K (M).md",
+    "Questions/3106. Lexicographically Smallest String After Operations With Constraint (M).md",
+    "3108. Minimum Cost Walk in Weighted Graph (H).md",
+    "3107. Minimum Operations to Make Median of Array Equal to K (M).md",
+    "3106. Lexicographically Smallest String After Operations With Constraint (M).md",
+    "Questions/3105. Longest Strictly Increasing or Strictly Decreasing Subarray (E).md",
+    "Questions/3101. Count Alternating Subarrays (M).md",
+    "Questions/3100. Water Bottles II (M).md",
+    "Questions/1759. Count Number of Homogenous Substrings (M).md",
+    "Questions/1614. Maximum Nesting Depth of the Parentheses (E).md",
+    "Questions/1544. Make The String Great (E).md",
+    "Questions/1249. Minimum Remove to Make Valid Parentheses (M).md",
+    "3105. Longest Strictly Increasing or Strictly Decreasing Subarray (E).md",
+    "678. Valid Parenthesis String (M).md",
+    "79. Word Search (M).md",
+    "3101. Count Alternating Subarrays (M).md",
+    "1759. Count Number of Homogenous Substrings (M).md",
+    "3100. Water Bottles II (M).md",
+    "Images/Pasted image 20240330154832.png",
+    "Images/Pasted image 20240316154114.png",
     "Images/Pasted image 20240127172519.png",
-    "Questions/3070. Count Submatrices with Top-Left Element and Sum Less Than k (M).md",
-    "Questions/3069. Distribute Elements Into Two Arrays I (E).md",
-    "349. Intersection of Two Arrays (E).md",
     "Pasted image 20240209140500.png",
     "Images/Pasted image 20240201111517.png",
     "Pasted image 20240201111517.png",
@@ -199,8 +213,6 @@
     "moveAll.py",
     "Images/Pasted image 20240126151636.png",
     "Pasted image 20240126151608.png",
-    "Images/Pasted image 20240126151318.png",
-    "Images/Pasted image 20240126151206.png",
     "Images",
     "Template",
     "topics.py"

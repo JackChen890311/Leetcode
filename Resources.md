@@ -74,6 +74,7 @@
 	[(0, -1), (6, 0), (2, 2), (1, 3), (4, 5)]
 	```
 - [Nonlocal vs global](https://stackoverflow.com/questions/33211272/what-is-the-difference-between-non-local-variable-and-global-variable)
+- [Nonlocal vs global 2](https://ktinglee.github.io/LearningPython100days(6)_global_and_nonlocal/)
 - [Typing](https://docs.python.org/zh-tw/3/library/typing.html)
 ### [Collections](https://docs.python.org/zh-tw/3/library/collections.html)
 - collections.defaultdict
