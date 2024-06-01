@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "68ec37a8ddd7e19f",
+        "id": "99e4c191aada9cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "57957c7662034f35",
+            "id": "8ee7bb3dc57be23a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/79. Word Search (M).md",
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81d957bc89d184c1",
+            "id": "9be6350066d9d720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/678. Valid Parenthesis String (M).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa8e759e97804e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/Monotonic Stack.md",
+                "file": "Topics/Union Find.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Monotonic Stack.md",
+                "file": "Topics/Union Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Monotonic Stack.md",
+                "file": "Topics/Union Find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Monotonic Stack.md"
+                "file": "Topics/Union Find.md"
               }
             }
           }
@@ -173,34 +161,35 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "aa8e759e97804e5d",
+  "active": "9be6350066d9d720",
   "lastOpenFiles": [
-    "Topics/Graph.md",
-    "Resources.md",
-    "Topics/Heap (Priority Queue).md",
-    "Questions/79. Word Search (M).md",
-    "Questions/678. Valid Parenthesis String (M).md",
-    "README.md",
+    "Questions/3110. Score of a String (E).md",
     "Questions.md",
-    "Questions/3108. Minimum Cost Walk in Weighted Graph (H).md",
-    "Questions/3107. Minimum Operations to Make Median of Array Equal to K (M).md",
-    "Questions/3106. Lexicographically Smallest String After Operations With Constraint (M).md",
-    "3108. Minimum Cost Walk in Weighted Graph (H).md",
-    "3107. Minimum Operations to Make Median of Array Equal to K (M).md",
-    "3106. Lexicographically Smallest String After Operations With Constraint (M).md",
-    "Questions/3105. Longest Strictly Increasing or Strictly Decreasing Subarray (E).md",
-    "Questions/3101. Count Alternating Subarrays (M).md",
-    "Questions/3100. Water Bottles II (M).md",
-    "Questions/1759. Count Number of Homogenous Substrings (M).md",
-    "Questions/1614. Maximum Nesting Depth of the Parentheses (E).md",
-    "Questions/1544. Make The String Great (E).md",
-    "Questions/1249. Minimum Remove to Make Valid Parentheses (M).md",
-    "3105. Longest Strictly Increasing or Strictly Decreasing Subarray (E).md",
-    "678. Valid Parenthesis String (M).md",
-    "79. Word Search (M).md",
-    "3101. Count Alternating Subarrays (M).md",
-    "1759. Count Number of Homogenous Substrings (M).md",
-    "3100. Water Bottles II (M).md",
+    "Topics/Union Find.md",
+    "1208. Get Equal Substrings Within Budget.md",
+    "Questions/1208. Get Equal Substrings Within Budget (M).md",
+    "Questions/859. Buddy Strings (E).md",
+    "Topics/Hash Table.md",
+    "Questions/242. Valid Anagram (E).md",
+    "Questions/3115. Maximum Prime Difference (M).md",
+    "Questions/1347. Minimum Number of Steps to Make Two Strings Anagram (M).md",
+    "Questions/202. Happy Number (E).md",
+    "Questions/496. Next Greater Element I (E).md",
+    "Questions/1647. Minimum Deletions to Make Character Frequencies Unique (M).md",
+    "Topics/Depth-First Search.md",
+    "Topics/Breadth-First Search.md",
+    "Questions/1971. Find if Path Exists in Graph (E).md",
+    "Topics/Graph.md",
+    "1992. Find All Groups of Farmland (M).md",
+    "752. Open the Lock (M).md",
+    "310. Minimum Height Trees (M).md",
+    "Questions/1137. N-th Tribonacci Number (E).md",
+    "2370. Longest Ideal Subsequence (M).md",
+    "1289. Minimum Falling Path Sum II (H).md",
+    "514. Freedom Trail (H).md",
+    "834. Sum of Distances in Tree (H).md",
+    "2997. Minimum Number of Operations to Make Array XOR Equal to K (M).md",
+    "Images/Pasted image 20240429122716.png",
     "Images/Pasted image 20240330154832.png",
     "Images/Pasted image 20240316154114.png",
     "Images/Pasted image 20240127172519.png",
@@ -212,7 +201,6 @@
     "Questionsssss",
     "moveAll.py",
     "Images/Pasted image 20240126151636.png",
-    "Pasted image 20240126151608.png",
     "Images",
     "Template",
     "topics.py"

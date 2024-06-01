@@ -12,6 +12,7 @@
  - `x in list`: $O(n)$
  - set/dict operation: $O(1)$
  - [set difference](https://stackoverflow.com/questions/48044353/what-is-the-run-time-of-the-set-difference-function-in-python): $O(n)$
+ - list.pop():  $O(1)$ for last element while  $O(n)$ for the others
 
 ## 相關重要演算法
 - [Fucking Algorithms Github](https://github.com/labuladong/fucking-algorithm) or [Its Website](https://labuladong.github.io/algo/)
@@ -73,6 +74,7 @@
 	>>> print(sorted(a, key = lambda x: x[1]))
 	[(0, -1), (6, 0), (2, 2), (1, 3), (4, 5)]
 	```
+- Get one item from set: `set.pop()` (Random/First element)
 - [Nonlocal vs global](https://stackoverflow.com/questions/33211272/what-is-the-difference-between-non-local-variable-and-global-variable)
 - [Nonlocal vs global 2](https://ktinglee.github.io/LearningPython100days(6)_global_and_nonlocal/)
 - [Typing](https://docs.python.org/zh-tw/3/library/typing.html)
