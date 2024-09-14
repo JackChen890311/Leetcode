@@ -21,6 +21,7 @@
 - [Difference between DFS & BFS](https://www.tutorialspoint.com/difference-between-bfs-and-dfs)
 - [Performance comparison between list & deque](https://stackoverflow.com/questions/23487307/python-deque-vs-list-performance-comparison)
 - [LRU Cache](https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html)
+- [How to master DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 ## Python Code Snippets
 ### Basic Data Structure
 - [Initialize a 2d matrix](https://www.geeksforgeeks.org/initialize-matrix-in-python/)

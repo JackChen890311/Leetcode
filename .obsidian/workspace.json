@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "99e4c191aada9cb1",
+        "id": "f029225943a63494",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee7bb3dc57be23a",
+            "id": "9fd5f6a25cd47748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9be6350066d9d720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/Union Find.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nonloca",
+                "query": "2024.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 308.5
   },
   "right": {
     "id": "59fccfa7edee5017",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Union Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Union Find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Topics/Union Find.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,34 +140,34 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "9be6350066d9d720",
+  "active": "83c783aa125bef7a",
   "lastOpenFiles": [
-    "Questions/3110. Score of a String (E).md",
-    "Questions.md",
-    "Topics/Union Find.md",
-    "1208. Get Equal Substrings Within Budget.md",
+    "Questions/1004. Max Consecutive Ones III (M).md",
+    "Questions/724. Find Pivot Index (E).md",
+    "Questions/1480. Running Sum of 1d Array (E).md",
+    "Topics/Prefix Sum.md",
     "Questions/1208. Get Equal Substrings Within Budget (M).md",
-    "Questions/859. Buddy Strings (E).md",
-    "Topics/Hash Table.md",
-    "Questions/242. Valid Anagram (E).md",
-    "Questions/3115. Maximum Prime Difference (M).md",
-    "Questions/1347. Minimum Number of Steps to Make Two Strings Anagram (M).md",
-    "Questions/202. Happy Number (E).md",
-    "Questions/496. Next Greater Element I (E).md",
-    "Questions/1647. Minimum Deletions to Make Character Frequencies Unique (M).md",
-    "Topics/Depth-First Search.md",
-    "Topics/Breadth-First Search.md",
-    "Questions/1971. Find if Path Exists in Graph (E).md",
-    "Topics/Graph.md",
-    "1992. Find All Groups of Farmland (M).md",
-    "752. Open the Lock (M).md",
+    "Questions/1140. Stone Game II (M).md",
+    "Questions/2024. Maximize the Confusion of an Exam (M).md",
+    "Questions/2542. Maximum Subsequence Score (M).md",
+    "Questions.md",
+    "Questions/525. Contiguous Array (M).md",
+    "Questions/1991. Find the Middle Index in Array (E).md",
+    "Questions/2448. Minimum Cost to Make Array Equal (H).md",
+    "Questions/209. Minimum Size Subarray Sum (M).md",
+    "Questions/3179. Find the N-th Value After K Seconds (M).md",
+    "Questions/3070. Count Submatrices with Top-Left Element and Sum Less Than k (M).md",
+    "Questions/1588. Sum of All Odd Length Subarrays (E).md",
+    "Questions/1051. Height Checker (E).md",
+    "Questions/136. Single Number (E).md",
+    "Questions/231. Power of Two (E).md",
+    "Questions/2220. Minimum Bit Flips to Convert Number (E).md",
+    "79. Word Search (M).md",
     "310. Minimum Height Trees (M).md",
-    "Questions/1137. N-th Tribonacci Number (E).md",
-    "2370. Longest Ideal Subsequence (M).md",
-    "1289. Minimum Falling Path Sum II (H).md",
     "514. Freedom Trail (H).md",
     "834. Sum of Distances in Tree (H).md",
-    "2997. Minimum Number of Operations to Make Array XOR Equal to K (M).md",
+    "1289. Minimum Falling Path Sum II (H).md",
+    "1915. Number of Wonderful Substrings (M).md",
     "Images/Pasted image 20240429122716.png",
     "Images/Pasted image 20240330154832.png",
     "Images/Pasted image 20240316154114.png",
