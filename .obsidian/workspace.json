@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f029225943a63494",
+        "id": "4270d1e20c4d2253",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd5f6a25cd47748",
+            "id": "091e59aae6d928ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1915. Number of Wonderful Substrings (M).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1915. Number of Wonderful Substrings (M)"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1545. Find Kth Bit in Nth Binary String (M).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "1545. Find Kth Bit in Nth Binary String (M) 的反向連結"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1545. Find Kth Bit in Nth Binary String (M).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "1545. Find Kth Bit in Nth Binary String (M) 的對外連結"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1545. Find Kth Bit in Nth Binary String (M).md"
+              },
+              "icon": "lucide-list",
+              "title": "1545. Find Kth Bit in Nth Binary String (M) 的大綱"
             }
           }
         ],
@@ -140,34 +164,34 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "83c783aa125bef7a",
+  "active": "091e59aae6d928ea",
   "lastOpenFiles": [
+    "Questions/1545. Find Kth Bit in Nth Binary String (M).md",
+    "1915. Number of Wonderful Substrings (M).md",
+    "1289. Minimum Falling Path Sum II (H).md",
+    "834. Sum of Distances in Tree (H).md",
+    "514. Freedom Trail (H).md",
+    "310. Minimum Height Trees (M).md",
+    "79. Word Search (M).md",
+    "Questions/670. Maximum Swap (M).md",
+    "Questions.md",
+    "Topics/Monotonic Stack.md",
+    "Questions/3319. K-th Largest Perfect Subtree Size in Binary Tree (M).md",
+    "Questions/3318. Find X-Sum of All K-Long Subarrays I (E).md",
+    "Topics/Heap (Priority Queue).md",
+    "Topics/Bit Manipulation.md",
+    "Resources.md",
+    "README.md",
+    "Questions/386. Lexicographical Numbers (M).md",
+    "Topics/Trie.md",
+    "Questions/884. Uncommon Words from Two Sentences (E).md",
+    "1371. Find the Longest Substring Containing Vowels in Even Counts (M).md",
     "Questions/1004. Max Consecutive Ones III (M).md",
     "Questions/724. Find Pivot Index (E).md",
     "Questions/1480. Running Sum of 1d Array (E).md",
     "Topics/Prefix Sum.md",
     "Questions/1208. Get Equal Substrings Within Budget (M).md",
     "Questions/1140. Stone Game II (M).md",
-    "Questions/2024. Maximize the Confusion of an Exam (M).md",
-    "Questions/2542. Maximum Subsequence Score (M).md",
-    "Questions.md",
-    "Questions/525. Contiguous Array (M).md",
-    "Questions/1991. Find the Middle Index in Array (E).md",
-    "Questions/2448. Minimum Cost to Make Array Equal (H).md",
-    "Questions/209. Minimum Size Subarray Sum (M).md",
-    "Questions/3179. Find the N-th Value After K Seconds (M).md",
-    "Questions/3070. Count Submatrices with Top-Left Element and Sum Less Than k (M).md",
-    "Questions/1588. Sum of All Odd Length Subarrays (E).md",
-    "Questions/1051. Height Checker (E).md",
-    "Questions/136. Single Number (E).md",
-    "Questions/231. Power of Two (E).md",
-    "Questions/2220. Minimum Bit Flips to Convert Number (E).md",
-    "79. Word Search (M).md",
-    "310. Minimum Height Trees (M).md",
-    "514. Freedom Trail (H).md",
-    "834. Sum of Distances in Tree (H).md",
-    "1289. Minimum Falling Path Sum II (H).md",
-    "1915. Number of Wonderful Substrings (M).md",
     "Images/Pasted image 20240429122716.png",
     "Images/Pasted image 20240330154832.png",
     "Images/Pasted image 20240316154114.png",

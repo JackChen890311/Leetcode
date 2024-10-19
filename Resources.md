@@ -81,6 +81,7 @@
 - [Typing](https://docs.python.org/zh-tw/3/library/typing.html)
 ### [Collections](https://docs.python.org/zh-tw/3/library/collections.html)
 - collections.defaultdict
+	- [python - defaultdict of defaultdict? - Stack Overflow](https://stackoverflow.com/questions/5029934/defaultdict-of-defaultdict)
     ```python=
     >>> s = [('red', 1), ('blue', 2), ('red', 3), ('blue', 4), ('red', 1), ('blue', 4)]
     >>> d = defaultdict(set)
