@@ -1,31 +1,34 @@
+- Use recursive default dict
+- When inserting a word, use `curr = curr[c] for c in word`, also add a `END` when finish
 ```python
 class Trie:
     def __init__(self):
-        def inf_ddict():
-            return defaultdict(inf_ddict)
-        self.child = inf_ddict() # key: char, value: dict
-        
+        nested_ddict = lambda: defaultdict(nested_ddict)
+        self.tree = nested_ddict()
+
     def insert(self, word: str) -> None:
-        P = self.child
+        curr_tree = self.tree
         for c in word:
-            P = P[c]
-        P['end'] = True
-    
-    def _searchTool(self, word: str) -> bool:
-        P = self.child
-        for c in word:
-            if c not in P:
-                return False
-            P = P[c]
-        return P
+            curr_tree = curr_tree[c]
+        curr_tree['END'] = ''
+
+    def _search_tool(self, dest: str) -> tuple[bool, defaultdict]:
+        curr_tree = self.tree
+        for c in dest:
+            if c not in curr_tree:
+                return False, defaultdict()
+            curr_tree = curr_tree[c]
+        return True, curr_tree
 
     def search(self, word: str) -> bool:
-        result = self._searchTool(word)
-        return 'end' in result if result else False
+        status, curr_tree = self._search_tool(word)
+        if not status:
+            return False
+        return True if 'END' in curr_tree else False
 
     def startsWith(self, prefix: str) -> bool:
-        result = self._searchTool(prefix)
-        return True if result else False
+        status, curr_tree = self._search_tool(prefix)
+        return status
 
 
 # Your Trie object will be instantiated and called as such:

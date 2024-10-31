@@ -26,3 +26,54 @@
 	- Minimum Spanning [[Tree]]: A tree that connects all the nodes in a graph with minimum value / weight
 		- Prim's Algorithm: starting at a node
 		- Kruskal's Algorithm: starting at minimum edge
+# Traversal
+- 特別注意 [[Matrix]] 跟 [[Graph]] 的 traversal 比較多細節!
+- DFS 順序：檢查合法性與 visited 在外層 pop 出該節點後
+```python=
+# 初始化堆疊和已訪問集合
+stack = [start_node]
+visited = set()
+
+# 開始 DFS 遍歷
+while stack:
+    node = stack.pop()
+
+    # 檢查節點是否已訪問
+    if node in visited:
+        continue
+
+    # 訪問這個節點 (可以在此處加入節點訪問的操作)
+    print(f"Visiting: {node}")
+
+    # 標記節點為已訪問
+    visited.add(node)
+
+    # 將所有鄰居加入堆疊
+    for neighbor in graph[node]:
+        if neighbor not in visited:
+            stack.append(neighbor)
+
+```
+- BFS 順序：檢查合法性與 visited 的邏輯在 for loop 找鄰居裡面
+```python=
+from collections import deque
+
+# 初始化隊列和已訪問集合
+queue = deque([start_node])
+visited = set()
+visited.add(start_node)  # 起始節點標記為已訪問
+
+# 開始 BFS 遍歷
+while queue:
+    node = queue.popleft()
+
+    # 訪問這個節點 (可以在此處加入節點訪問的操作)
+    print(f"Visiting: {node}")
+
+    # 將合法且未訪問的鄰居加入隊列
+    for neighbor in graph[node]:
+        if neighbor not in visited:
+            visited.add(neighbor)  # 標記為已訪問
+            queue.append(neighbor)  # 將鄰居加入隊列
+
+```

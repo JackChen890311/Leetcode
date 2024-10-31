@@ -9,6 +9,9 @@
     4
     >>> bisect.bisect(a, 4) # [1,2,3,4,*...]
     4    
+    >>> bisect.insort(a, 8) # insert element
+    >>> a
+    [1,2,3,4,5,6,7,8]
     ```
     
     ```python=
@@ -23,9 +26,9 @@
 - A Standard Binary Search:
 ```python=
 def binary_search(list_sorted, target):
-    left, right = 0, len(list_sorted)
+    left, right = 0, len(list_sorted) - 1
     while left <= right:
-        mid = (left + right) // 2
+        mid = left + (right - left) // 2
         if list_sorted[mid] > target:
             right = mid - 1
         elif list_sorted[mid] < target:

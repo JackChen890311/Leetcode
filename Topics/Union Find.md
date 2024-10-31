@@ -24,7 +24,7 @@ class UF:
 
     def find(self, x):
         while self.parent[x] != x:
-            self.parent[x] = self.parent[self.parent[x]]
-            x = self.parent[x]
+            self.parent[x] = self.parent[self.parent[x]] # 我的老爸變成我祖父
+            x = self.parent[x] # 我變成我祖父繼續找
         return x
 ```
