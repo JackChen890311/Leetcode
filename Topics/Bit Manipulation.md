@@ -1,4 +1,5 @@
-- [Bit Manipulation for python](https://weikaiwei.com/python/python-bitwise/)
+- [Bitwise operation for python](https://weikaiwei.com/python/python-bitwise/)
+- [Useful Property]([Python的位元運算 - HackMD](https://hackmd.io/@apcser/H14FONT4n?utm_source=preview-mode&utm_medium=rec))
 ```python=
 >>> bin(13)
 '0b1101'

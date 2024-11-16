@@ -21,6 +21,8 @@ class UF:
             else:
                 self.parent[rootY] = rootX
                 self.size[rootX] += self.size[rootY]
+            return True # Union successful
+        return False # Already in the same set
 
     def find(self, x):
         while self.parent[x] != x:
@@ -28,3 +30,6 @@ class UF:
             x = self.parent[x] # 我變成我祖父繼續找
         return x
 ```
+
+
+

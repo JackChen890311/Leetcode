@@ -28,6 +28,7 @@
 		- Kruskal's Algorithm: starting at minimum edge
 # Traversal
 - 特別注意 [[Matrix]] 跟 [[Graph]] 的 traversal 比較多細節!
+- [Why DFS and BFS have to put visited at different places](https://stackoverflow.com/questions/25990706/breadth-first-search-the-timing-of-checking-visitation-status/25992077#25992077)
 - DFS 順序：檢查合法性與 visited 在外層 pop 出該節點後
 ```python=
 # 初始化堆疊和已訪問集合

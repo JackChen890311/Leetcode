@@ -4,6 +4,7 @@
 	- 8-way: 4-way + [(1,1), (1,-1), (1,-1), (-1,-1)]
 # Traversal
 - 特別注意 [[Matrix]] 跟 [[Graph]] 的 traversal 比較多細節!
+- [Why DFS and BFS have to put visited at different places](https://stackoverflow.com/questions/25990706/breadth-first-search-the-timing-of-checking-visitation-status/25992077#25992077)
 - DFS 順序：檢查合法性與 visited 在外層 pop 出該節點後
 ```python=
 # 定義方向向量 (上, 下, 左, 右)
@@ -18,7 +19,7 @@ while stack:
     x, y = stack.pop()
 
     # 檢查單元格是否已訪問或無效
-    if ((x, y) in visited) or (x not in range(rows)) or (y not in range(cols)) or (matrix[x][y] == '0'):
+    if ((x, y) in visited) or (x not in range(rows)) or (y not in range(cols)):
         continue  # 跳過處理這個單元格
 
     # 訪問這個節點 (這裡可以加入訪問處理的程式碼)
@@ -53,7 +54,7 @@ while queue:
     for dx, dy in directions:
         nx, ny = x + dx, y + dy
         # 先檢查鄰居是否合法且未訪問
-        if (nx, ny) not in visited and (nx in range(rows)) and (ny in range(cols)) and (matrix[nx][ny] != '0'):
+        if (nx, ny) not in visited and (nx in range(rows)) and (ny in range(cols)):
             visited.add((nx, ny))  # 標記為訪問過
             queue.append((nx, ny))  # 加入到隊列中等待處理
 ```

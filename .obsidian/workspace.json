@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "cae27740e27527bd",
+        "id": "b33bc290495f36fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ecdbb007157e7167",
+            "id": "440ecdfd041fd970",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Questions"
+            }
+          },
+          {
+            "id": "4f9d81f03e519352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/417. Pacific Atlantic Water Flow (M).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "417. Pacific Atlantic Water Flow (M)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 327.5
   },
   "right": {
     "id": "59fccfa7edee5017",
@@ -160,35 +179,37 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "ecdbb007157e7167",
+  "active": "83c783aa125bef7a",
   "lastOpenFiles": [
-    "Topics/Union Find.md",
-    "Questions/1020. Number of Enclaves (M).md",
-    "Questions/695. Max Area of Island (M).md",
-    "Questions/221. Maximal Square (M).md",
-    "Questions/1277. Count Square Submatrices with All Ones (M).md",
     "Questions.md",
+    "Questions/417. Pacific Atlantic Water Flow (M).md",
+    "Questions/3254. Find the Power of K-Size Subarrays I (M).md",
+    "Questions/1574. Shortest Subarray to be Removed to Make Array Sorted (M).md",
+    "Questions/2064. Minimized Maximum of Products Distributed to Any Store (M).md",
+    "Questions/2563. Count the Number of Fair Pairs (M).md",
+    "Topics/Binary Search.md",
+    "Questions/2070. Most Beautiful Item for Each Query (M).md",
+    "Questions/2601. Prime Subtraction Operation (M).md",
+    "Questions/3133. Minimum Array End (M).md",
+    "1915. Number of Wonderful Substrings (M).md",
+    "3097. Shortest Subarray With OR at Least K II (M).md",
+    "3337. Total Characters in String After Transformations II (H).md",
+    "1289. Minimum Falling Path Sum II (H).md",
+    "834. Sum of Distances in Tree (H).md",
+    "514. Freedom Trail (H).md",
+    "310. Minimum Height Trees (M).md",
+    "Images/Pasted image 20241114211416.png",
+    "Questions/1829. Maximum XOR for Each Query (M).md",
+    "Topics/Bit Manipulation.md",
+    "Questions/2275. Largest Combination With Bitwise AND Greater Than Zero (M).md",
+    "Questions/169. Majority Element (E).md",
+    "Topics/Hash Table.md",
+    "Topics.md",
+    "Topics/Union Find.md",
+    "Topics/Prefix Sum.md",
+    "Questions/206. Reverse Linked List (E).md",
     "Images/Pasted image 20241031152446.png",
     "Questions/Pasted image 20241031152446.png",
-    "Questions/2684. Maximum Number of Moves in a Grid (M).md",
-    "Questions/2501. Longest Square Streak in an Array (M).md",
-    "Questions/128. Longest Consecutive Sequence (M).md",
-    "3337. Total Characters in String After Transformations II (H).md",
-    "Questions/3335. Total Characters in String After Transformations I (M).md",
-    "Questions/3334. Find the Maximum Factor Score of Array (M).md",
-    "Topics/Matrix.md",
-    "310. Minimum Height Trees (M).md",
-    "Topics/Graph.md",
-    "matrux.md",
-    "Questions/79. Word Search (M).md",
-    "Topics/Backtracking.md",
-    "Questions/199. Binary Tree Right Side View (M).md",
-    "Questions/130. Surrounded Regions (M).md",
-    "Topics/Binary Search.md",
-    "Questions/264. Ugly Number II (M).md",
-    "Questions/263. Ugly Number (E).md",
-    "Questions/120. Triangle (M).md",
-    "Questions/213. House Robber II (M).md",
     "Images/Pasted image 20240429122716.png",
     "Images/Pasted image 20240330154832.png",
     "Images/Pasted image 20240316154114.png",
@@ -196,7 +217,6 @@
     "Pasted image 20240209140500.png",
     "Images/Pasted image 20240201111517.png",
     "Pasted image 20240201111517.png",
-    "Pasted image 20240201111514.png",
     "Questionsssss",
     "moveAll.py",
     "Images",
