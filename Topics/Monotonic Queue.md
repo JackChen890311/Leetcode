@@ -1,0 +1,1 @@
+- [[L 外商面試考題] Sliding Window Maximum - Monotonic queue 的應用 - Benger Say 班格](https://bengersay.com/sliding-window-maximum/)

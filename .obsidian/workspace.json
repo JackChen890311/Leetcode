@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "440ecdfd041fd970",
+            "id": "10764de3dd654da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Questions"
             }
-          },
-          {
-            "id": "4f9d81f03e519352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/417. Pacific Atlantic Water Flow (M).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "417. Pacific Atlantic Water Flow (M)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +164,24 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "83c783aa125bef7a",
+  "active": "10764de3dd654da9",
   "lastOpenFiles": [
+    "Questions/1930. Unique Length-3 Palindromic Subsequences (M).md",
     "Questions.md",
+    "Questions/239. Sliding Window Maximum (H).md",
+    "Topics/Monotonic Queue.md",
+    "Topics.md",
+    "Topics/Stack.md",
+    "Topics/Monotonic Stack.md",
+    "Resources.md",
+    "Topics/Bit Manipulation.md",
+    "[Python的位元運算.md",
+    "Questions/1760. Minimum Limit of Balls in a Bag (M).md",
+    "Questions/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence (E).md",
+    "Questions/1346. Check If N and Its Double Exist (E).md",
+    "Questions/3356. Zero Array Transformation II (M).md",
+    "Questions/3355. Zero Array Transformation I (M).md",
+    "Questions/3354. Make Array Elements Equal to Zero (E).md",
     "Questions/417. Pacific Atlantic Water Flow (M).md",
     "Questions/3254. Find the Power of K-Size Subarrays I (M).md",
     "Questions/1574. Shortest Subarray to be Removed to Make Array Sorted (M).md",
@@ -192,22 +192,7 @@
     "Questions/2601. Prime Subtraction Operation (M).md",
     "Questions/3133. Minimum Array End (M).md",
     "1915. Number of Wonderful Substrings (M).md",
-    "3097. Shortest Subarray With OR at Least K II (M).md",
-    "3337. Total Characters in String After Transformations II (H).md",
-    "1289. Minimum Falling Path Sum II (H).md",
-    "834. Sum of Distances in Tree (H).md",
-    "514. Freedom Trail (H).md",
-    "310. Minimum Height Trees (M).md",
     "Images/Pasted image 20241114211416.png",
-    "Questions/1829. Maximum XOR for Each Query (M).md",
-    "Topics/Bit Manipulation.md",
-    "Questions/2275. Largest Combination With Bitwise AND Greater Than Zero (M).md",
-    "Questions/169. Majority Element (E).md",
-    "Topics/Hash Table.md",
-    "Topics.md",
-    "Topics/Union Find.md",
-    "Topics/Prefix Sum.md",
-    "Questions/206. Reverse Linked List (E).md",
     "Images/Pasted image 20241031152446.png",
     "Questions/Pasted image 20241031152446.png",
     "Images/Pasted image 20240429122716.png",

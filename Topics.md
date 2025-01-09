@@ -30,6 +30,7 @@
 ### [[Math]]
 ### [[Matrix]]
 ### [[Memoization]]
+### [[Monotonic Queue]]
 ### [[Monotonic Stack]]
 ### [[Number Theory]]
 ### [[Prefix Sum]]
