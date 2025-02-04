@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b33bc290495f36fb",
+        "id": "69993c4f0a2664f6",
         "type": "tabs",
         "children": [
           {
-            "id": "10764de3dd654da9",
+            "id": "243a1faae1102b48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "新分頁"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -164,14 +161,24 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "10764de3dd654da9",
+  "active": "243a1faae1102b48",
   "lastOpenFiles": [
-    "Questions/1930. Unique Length-3 Palindromic Subsequences (M).md",
     "Questions.md",
+    "Questions/1752. Check if Array Is Sorted and Rotated (E).md",
+    "Questions/3. Longest Substring Without Repeating Characters (M).md",
+    "Topics/Union Find.md",
+    "Topics/Matrix.md",
+    "Questions/684. Redundant Connection (M).md",
+    "Topics/Graph.md",
+    "Topics/Depth-First Search.md",
+    "Topics/Stack.md",
+    "Questions/1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance (M).md",
+    "Questions/2683. Neighboring Bitwise XOR (M).md",
+    "Questions/2684. Maximum Number of Moves in a Grid (M).md",
+    "Questions/1930. Unique Length-3 Palindromic Subsequences (M).md",
     "Questions/239. Sliding Window Maximum (H).md",
     "Topics/Monotonic Queue.md",
     "Topics.md",
-    "Topics/Stack.md",
     "Topics/Monotonic Stack.md",
     "Resources.md",
     "Topics/Bit Manipulation.md",
@@ -182,16 +189,6 @@
     "Questions/3356. Zero Array Transformation II (M).md",
     "Questions/3355. Zero Array Transformation I (M).md",
     "Questions/3354. Make Array Elements Equal to Zero (E).md",
-    "Questions/417. Pacific Atlantic Water Flow (M).md",
-    "Questions/3254. Find the Power of K-Size Subarrays I (M).md",
-    "Questions/1574. Shortest Subarray to be Removed to Make Array Sorted (M).md",
-    "Questions/2064. Minimized Maximum of Products Distributed to Any Store (M).md",
-    "Questions/2563. Count the Number of Fair Pairs (M).md",
-    "Topics/Binary Search.md",
-    "Questions/2070. Most Beautiful Item for Each Query (M).md",
-    "Questions/2601. Prime Subtraction Operation (M).md",
-    "Questions/3133. Minimum Array End (M).md",
-    "1915. Number of Wonderful Substrings (M).md",
     "Images/Pasted image 20241114211416.png",
     "Images/Pasted image 20241031152446.png",
     "Questions/Pasted image 20241031152446.png",
