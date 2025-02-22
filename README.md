@@ -11,4 +11,4 @@ Template for each question is at [[Temp - Questions]].
 
 ---
 
-[![Jack's Leetcode Stats](https://leetcard.jacoblin.cool/JackChen890311/?theme=dark&ext=heatmap)](https://leetcode.com/JackChen890311/)
+[![Jack's Leetcode Stats](https://leetcard.jacoblin.cool/JackChen890311?theme=dark&ext=heatmap)](https://leetcode.com/u/JackChen890311/)
