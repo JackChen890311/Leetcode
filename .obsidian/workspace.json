@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Questions"
             }
-          },
-          {
-            "id": "66bffc07d0953fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1915. Number of Wonderful Substrings (M).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1915. Number of Wonderful Substrings (M)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +165,19 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "66bffc07d0953fbb",
+  "active": "243a1faae1102b48",
   "lastOpenFiles": [
+    "1915. Number of Wonderful Substrings (M).md",
+    "Questions/3097. Shortest Subarray With OR at Least K II (M).md",
+    "Questions/834. Sum of Distances in Tree (H).md",
+    "Questions/310. Minimum Height Trees (M).md",
+    "Questions/3337. Total Characters in String After Transformations II (H).md",
+    "Questions/1915. Number of Wonderful Substrings (M).md",
+    "Questions/1289. Minimum Falling Path Sum II (H).md",
+    "Questions/514. Freedom Trail (H).md",
     "Sync.sh",
     "3337. Total Characters in String After Transformations II (H).md",
     "3097. Shortest Subarray With OR at Least K II (M).md",
-    "1915. Number of Wonderful Substrings (M).md",
     "1289. Minimum Falling Path Sum II (H).md",
     "834. Sum of Distances in Tree (H).md",
     "514. Freedom Trail (H).md",
@@ -202,12 +194,6 @@
     "Topics/Union Find.md",
     "Topics/Matrix.md",
     "Questions/684. Redundant Connection (M).md",
-    "Topics/Graph.md",
-    "Topics/Depth-First Search.md",
-    "Topics/Stack.md",
-    "Questions/1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance (M).md",
-    "Questions/2683. Neighboring Bitwise XOR (M).md",
-    "Questions/2684. Maximum Number of Moves in a Grid (M).md",
     "Images/Pasted image 20241114211416.png",
     "Images/Pasted image 20241031152446.png",
     "Questions/Pasted image 20241031152446.png",
