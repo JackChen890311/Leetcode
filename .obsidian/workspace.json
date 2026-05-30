@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "e9f91abce8649e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "3258c17c5b675847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2952d6addd22e6d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a7b99951560944",
+    "type": "split",
+    "children": [
+      {
+        "id": "007dc7990efe3ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c783aa125bef7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "adb6ecddcaadbd6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "43ba167d263eae09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "59fccfa7edee5017",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dbbe20409831a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa3bc3981406c55e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1545. Find Kth Bit in Nth Binary String (M).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1545. Find Kth Bit in Nth Binary String (M) 的反向連結"
+            }
+          },
+          {
+            "id": "93344c3384f3ef2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1545. Find Kth Bit in Nth Binary String (M).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1545. Find Kth Bit in Nth Binary String (M) 的對外連結"
+            }
+          },
+          {
+            "id": "4989766d7b37ff56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "0b71ff1f0f747056",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1545. Find Kth Bit in Nth Binary String (M).md"
+              },
+              "icon": "lucide-list",
+              "title": "1545. Find Kth Bit in Nth Binary String (M) 的大綱"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:建立新的 base": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "random-note:開始漫遊筆記": false
+    }
+  },
+  "active": "2952d6addd22e6d8",
+  "lastOpenFiles": [
+    "Questions/3. Longest Substring Without Repeating Characters (M).md",
+    "Topics/Sliding Window.md",
+    "Topics/Counting.md",
+    "Topics/Data Stream.md",
+    "Topics/Bucket Sort.md",
+    "Topics/Backtracking.md",
+    "Topics/Binary Indexed Tree.md",
+    "Questions.md",
+    "Questions/258. Add Digits (E).md",
+    "Topics/Number Theory.md",
+    "README.md",
+    "Resources.md",
+    "Topics.md",
+    "Questions/918. Maximum Sum Circular Subarray (M).md",
+    "Questions/53. Maximum Subarray (M).md",
+    "Questions/85. Maximal Rectangle (H).md",
+    "Questions/84. Largest Rectangle in Histogram (H).md",
+    "Questions/42. Trapping Rain Water (H).md",
+    "Questions/239. Sliding Window Maximum (H).md",
+    "Topics/Monotonic Queue.md",
+    "Questions/1109. Corporate Flight Bookings (M).md",
+    "Questions/1094. Car Pooling (M).md",
+    "Topics/Prefix Sum.md",
+    "Questions/496. Next Greater Element I (E).md",
+    "Topics/Monotonic Stack.md",
+    "Questions/191. Number of 1 Bits (E).md",
+    "Sync.sh",
+    "Images/Pasted image 20241114211416.png",
+    "Images/Pasted image 20241031152446.png",
+    "Questions/Pasted image 20241031152446.png",
+    "Images/Pasted image 20240429122716.png",
+    "Images/Pasted image 20240330154832.png",
+    "Images/Pasted image 20240316154114.png",
+    "Images/Pasted image 20240127172519.png",
+    "Pasted image 20240209140500.png",
+    "Images/Pasted image 20240201111517.png",
+    "Pasted image 20240201111517.png",
+    "Questionsssss",
+    "moveAll.py",
+    "Images",
+    "Template",
+    "topics.py"
+  ]
+}
