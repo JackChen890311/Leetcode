@@ -79,6 +79,7 @@
 - [Nonlocal vs global](https://stackoverflow.com/questions/33211272/what-is-the-difference-between-non-local-variable-and-global-variable)
 - [Nonlocal vs global 2](https://ktinglee.github.io/LearningPython100days(6)_global_and_nonlocal/)
 - [Typing](https://docs.python.org/zh-tw/3/library/typing.html)
+- [yield in python](https://medium.com/@zhoumax/python-yield-a4caf2e6c0b8)
 ### [Collections](https://docs.python.org/zh-tw/3/library/collections.html)
 - collections.defaultdict
 	- [python - defaultdict of defaultdict? - Stack Overflow](https://stackoverflow.com/questions/5029934/defaultdict-of-defaultdict)
