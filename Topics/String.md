@@ -3,5 +3,10 @@
 	 s = "abc"
 	 s.isalpha()
 	 s.isalnum()
-	 s.isnumeric()
+	 s.isdigit()
+	 
+	 s.lower()
+	 s.upper()
+	 s.title()
+	 s.capitalize()
 	 ```
