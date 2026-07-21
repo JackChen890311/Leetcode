@@ -3,3 +3,4 @@
 ### [[21. Merge Two Sorted Lists (E)]]
 ### [[121. Best Time to Buy and Sell Stock (E)]]
 ### [[125. Valid Palindrome (E)]]
+### [[226. Invert Binary Tree (E)]]
