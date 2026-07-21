@@ -5,3 +5,5 @@
 	- [[144. Binary Tree Preorder Traversal (E)]]
 	- [[145. Binary Tree Postorder Traversal (E)]]
 	- [[102. Binary Tree Level Order Traversal (M)]]
+- Height, Depth and Diameter
+![[Pasted image 20260721222045.png]]
