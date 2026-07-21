@@ -1,2 +1,4 @@
 ### [[1. Two Sum (E)]]
 ### [[20. Valid Parentheses (E)]]
+### [[21. Merge Two Sorted Lists (E)]]
+### [[121. Best Time to Buy and Sell Stock (E)]]
