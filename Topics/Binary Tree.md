@@ -5,5 +5,5 @@
 	- [[144. Binary Tree Preorder Traversal (E)]]
 	- [[145. Binary Tree Postorder Traversal (E)]]
 	- [[102. Binary Tree Level Order Traversal (M)]]
-- Height, Depth and Diameter
+- Height, Depth and Diameter (Diameter should be 5 edges)
 ![[Pasted image 20260721222045.png]]
