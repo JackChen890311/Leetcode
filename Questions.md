@@ -421,3 +421,4 @@
 ### [[3354. Make Array Elements Equal to Zero (E)]]
 ### [[3355. Zero Array Transformation I (M)]]
 ### [[3356. Zero Array Transformation II (M)]]
+### [[3499. Maximize Active Section with Trade I (M)]]
