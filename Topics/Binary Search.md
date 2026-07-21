@@ -53,4 +53,6 @@ def binary_search(list_sorted, target):
                 right = mid - 1
         return left
 	```
-	- For [] 
+	- For input of [F, F, T, T]:
+		- if we are finding first T -> `return left` (first bad version)
+		- if we are finding last F -> `return right`
