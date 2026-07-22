@@ -12,3 +12,5 @@
 ### [[141. Linked List Cycle (E)]]
 ### [[232. Implement Queue using Stacks (E)]]
 ### [[278. First Bad Version(E)]]
+### [[383. Ransom Note (E)]]
+### [[70. Climbing Stairs (E)]]
