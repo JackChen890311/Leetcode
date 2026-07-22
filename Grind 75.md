@@ -21,3 +21,4 @@
 ### [[409. Longest Palindrome (E)]]
 ### [[206. Reverse Linked List (E)]]
 ### [[169. Majority Element (E)]]
+### [[67. Add Binary (E)]]
