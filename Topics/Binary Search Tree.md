@@ -1,2 +1,3 @@
 - Special kind of [[Binary Tree]]
 - In-order traversal (left -> mid -> right) will give you sorted list
+- Go left -> Smaller / Go right -> Larger
