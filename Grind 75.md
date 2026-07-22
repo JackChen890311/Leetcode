@@ -20,3 +20,4 @@
 ### [[70. Climbing Stairs (E)]]
 ### [[409. Longest Palindrome (E)]]
 ### [[206. Reverse Linked List (E)]]
+### [[169. Majority Element (E)]]
