@@ -23,7 +23,7 @@ Binary Search 基本題，分析了一下 base case
 ### [[169. Majority Element (E)]]
 ### [[67. Add Binary (E)]]
 ### [[543. Diameter of Binary Tree (E)]]
-卡住
+卡住，但就是針對每個 node 算 lh + rh，然後取最大就好
 ### [[876. Middle of the Linked List (E)]]
 ### [[104. Maximum Depth of Binary Tree (E)]]
 dfs 找最長路徑（最深）
