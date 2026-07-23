@@ -6,7 +6,7 @@ def is_overlapping(a: List[int], b: List[int]) -> bool:
 	return a[0] <= b[1] and b[0] <= a[1]
 ```
 
-既然「不重疊」的條件是：
+「不重疊」的條件是：
 - `end₁ < start₂` OR `start₁ > end₂`
 那「重疊」就是把上面的條件**全部反過來（加個「不」字）**：
 - `end₁ < start₂` 反過來 ➡️ `end₁ >= start₂`（意即：A 撐得夠久，有機會碰到 B 的開頭）
@@ -18,9 +18,17 @@ def is_overlapping(a: List[int], b: List[int]) -> bool:
 - Then take min and max
 ```python
 def merge_two_intervals(a, b): 
-	# Step 1: Check if they actually overlap 
-	if a <= b and b <= a: 
-	# Step 2: Combine boundaries 
-		return [min(a, b), max(a, b)] 
+	if is_overlapping(a, b):
+		return [min(a[0], b[0]), max(a[1], b[1])]
+	return None
+```
+
+## Union of 2 interval
+- Check if overlap first
+- Then take max and min
+```python
+def union_of_two_intervals(a, b): 
+	if is_overlapping(a, b):
+		return [max(a[0], b[0]), min(a[1], b[1])]
 	return None
 ```
