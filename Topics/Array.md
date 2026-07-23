@@ -2,8 +2,8 @@
 ## Determine if 2 interval is overlapped
 
 ```python
-def is_overlapping(a: List[int], b: List[int]) -> bool:
-	return a[0] <= b[1] and b[0] <= a[1]
+def checkOverlap(int1: List[int], int2: List[int]) -> bool:
+	return int1[0] <= int2[1] and int2[0] <= int1[1]
 ```
 
 「不重疊」的條件是：
@@ -17,9 +17,9 @@ def is_overlapping(a: List[int], b: List[int]) -> bool:
 - Check if overlap first
 - Then take min and max
 ```python
-def merge_two_intervals(a, b): 
-	if is_overlapping(a, b):
-		return [min(a[0], b[0]), max(a[1], b[1])]
+def mergeInterval(int1: List[int], int2: List[int]) -> Optional[List[int]]:
+	if checkOverlap(int1, int2):
+		return [min(int1[0], int2[0]), max(int1[1], int2[1])]
 	return None
 ```
 
@@ -27,8 +27,8 @@ def merge_two_intervals(a, b):
 - Check if overlap first
 - Then take max and min
 ```python
-def union_of_two_intervals(a, b): 
-	if is_overlapping(a, b):
-		return [max(a[0], b[0]), min(a[1], b[1])]
+def unionOfInterval(int1: List[int], int2: List[int]) -> Optional[List[int]]:
+	if checkOverlap(int1, int2):
+		return [max(int1[0], int2[0]), min(int1[1], int2[1])]
 	return None
 ```
