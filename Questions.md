@@ -99,6 +99,7 @@
 ### [[215. Kth Largest Element in an Array (M)]]
 ### [[217. Contains Duplicate (E)]]
 ### [[221. Maximal Square (M)]]
+### [[223. Rectangle Area (M)]]
 ### [[225. Implement Stacks using Queue (E)]]
 ### [[226. Invert Binary Tree (E)]]
 ### [[228. Summary Ranges (E)]]

@@ -1,3 +1,5 @@
+# Complexity
+![[Pasted image 20260723231359.png]]
 # Selection Sort
 ```python
 s = time.time()

@@ -31,3 +31,6 @@ dfs 找最長路徑（最深）
 ### [[53. Maximum Subarray (M)]]
 Kadane's Algorithm，注意細節，像是 local 要取 max(nums[i], nums[i] + local)，因為必選至少一個
 ### [[57. Insert Interval (M)]]
+卡了一陣子，最後用 binary search 先找出插入點，再把它變成 [[56. Merge Intervals (M)]] 檢查每個 interval merge 起來
+關於 interval 的一些操作可以看 [[Array]]
+### [[542. 01 Matrix (M)]]
