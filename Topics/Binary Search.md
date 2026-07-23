@@ -16,6 +16,8 @@
     >>> bisect.insort(a, 8) # insert element
     >>> a
     [1,2,3,4,5,6,7,8]
+    >>> b = [[1,"a"], [3, "b"], [4, "c"]]
+    >>> bisect.bisect(b, 2, key = lambda x: x[0]) # 1, lambda only works on the list (python >= 3.10)
     ```
     
     ```python=
