@@ -15,10 +15,18 @@
 ### [[141. Linked List Cycle (E)]]
 ### [[232. Implement Queue using Stacks (E)]]
 ### [[278. First Bad Version(E)]]
-分析了一下 base case
+Binary Search 基本題，分析了一下 base case
 ### [[383. Ransom Note (E)]]
 ### [[70. Climbing Stairs (E)]]
 ### [[409. Longest Palindrome (E)]]
 ### [[206. Reverse Linked List (E)]]
 ### [[169. Majority Element (E)]]
 ### [[67. Add Binary (E)]]
+### [[543. Diameter of Binary Tree (E)]]
+卡住
+### [[876. Middle of the Linked List (E)]]
+### [[104. Maximum Depth of Binary Tree (E)]]
+dfs 找最長路徑（最深）
+### [[217. Contains Duplicate (E)]]
+### [[53. Maximum Subarray (M)]]
+Kadane's Algorithm，注意細節，像是 local 要取 max(nums[i], nums[i] + local)，因為必選至少一個
