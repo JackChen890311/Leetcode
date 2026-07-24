@@ -309,6 +309,7 @@
 ### [[1752. Check if Array Is Sorted and Rotated (E)]]
 ### [[1759. Count Number of Homogenous Substrings (M)]]
 ### [[1760. Minimum Limit of Balls in a Bag (M)]]
+### [[1765. Map of Highest Peak (M)]]
 ### [[1780. Check if Number is a Sum of Powers of Three (M)]]
 ### [[1791. Find Center of Star Graph (E)]]
 ### [[1802. Maximum Value at a Given Index in a Bounded Array (M)]]
