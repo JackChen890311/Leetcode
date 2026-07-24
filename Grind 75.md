@@ -34,3 +34,4 @@ Kadane's Algorithm，注意細節，像是 local 要取 max(nums[i], nums[i] + l
 卡了一陣子，最後用 binary search 先找出插入點，再把它變成 [[56. Merge Intervals (M)]] 檢查每個 interval merge 起來
 關於 interval 的一些操作可以看 [[Array]]
 ### [[542. 01 Matrix (M)]]
+Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入距離，重複就不用再走
