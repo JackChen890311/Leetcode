@@ -211,6 +211,7 @@
 ### [[951. Flip Equivalent Binary Trees (M)]]
 ### [[956. Tallest Billboard (H)]]
 ### [[959. Regions Cut By Slashes (M)]]
+### [[973. K Closest Points to Origin (M)]]
 ### [[977. Squares of a Sorted Array (E)]]
 ### [[980. Unique Paths III (H)]]
 ### [[988. Smallest String Starting From Leaf (M)]]
