@@ -37,3 +37,5 @@ Kadane's Algorithm，注意細節，像是 local 要取 max(nums[i], nums[i] + l
 Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入距離，重複就不用再走
 ### [[973. K Closest Points to Origin (M)]]
 ### [[3. Longest Substring Without Repeating Characters (M)]]
+### [[15. 3Sum (M)]]
+原本用 [[Two Pointers]]，看來沒辦法掃過所有情況，應該只能用在“當確定前面的元素不會再用到的 case”？
