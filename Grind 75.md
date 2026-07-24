@@ -41,6 +41,8 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 原本用 [[Two Pointers]]，看來沒辦法掃過所有情況，應該只能用在“當確定前面的元素不會再用到的 case”？
 感覺是個爛題目 @@
 ### [[133. Clone Graph (M)]]
+先 traverse 一遍把 graph 的狀態用 adjacency list 記下來
+然後再依據他建一個新 graph
 ### [[102. Binary Tree Level Order Traversal (M)]]
 ### [[150. Evaluate Reverse Polish Notation (M)]]
 不要從尾開始，這樣會超久
