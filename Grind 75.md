@@ -39,3 +39,9 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 ### [[3. Longest Substring Without Repeating Characters (M)]]
 ### [[15. 3Sum (M)]]
 原本用 [[Two Pointers]]，看來沒辦法掃過所有情況，應該只能用在“當確定前面的元素不會再用到的 case”？
+感覺是個爛題目 @@
+### [[133. Clone Graph (M)]]
+### [[102. Binary Tree Level Order Traversal (M)]]
+### [[150. Evaluate Reverse Polish Notation (M)]]
+不要從尾開始，這樣會超久
+從頭開始，遇到數字先記到 stack，遇到運算元再 pop 出來運算，然後把結果推回去
