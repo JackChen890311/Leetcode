@@ -1,6 +1,5 @@
 ## 題目參照
- - [top interview](https://leetcode.com/problem-list/top-interview-questions/)
- - [top 100](https://leetcode.com/problem-list/top-100-liked-questions/) 
+ - [Leetcode Study Plan](https://leetcode.com/studyplan/)
  - [Grind 75 (No hard, by topic)](https://www.techinterviewhandbook.org/grind75?difficulty=Easy&difficulty=Medium&order=topics)
  - [[Grind 75]]
  - [Neetcode](https://neetcode.io/practice)
