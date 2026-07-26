@@ -160,6 +160,7 @@
 ### [[576. Out of Boundary Paths (M)]]
 ### [[589. N-ary Tree Preorder Traversal (E)]]
 ### [[623. Add One Row to Tree (M)]]
+### [[628. Maximum Product of Three Numbers (E)]]
 ### [[633. Sum of Square Numbers (E)]]
 ### [[645. Set Mismatch (E)]]
 ### [[647. Palindromic Substrings (M)]]
