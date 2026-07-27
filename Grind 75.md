@@ -47,3 +47,7 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 ### [[150. Evaluate Reverse Polish Notation (M)]]
 不要從尾開始，這樣會超久
 從頭開始，遇到數字先記到 stack，遇到運算元再 pop 出來運算，然後把結果推回去
+### [[207. Course Schedule (M)]]
+兩種方法：
+- 檢查圖有無 cycle：Traverse + 灰白黑 marking
+- Topological Sort with Kahn's Algorithm (Refer to [[210. Course Schedule II (M)]])
