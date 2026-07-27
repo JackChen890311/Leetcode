@@ -91,6 +91,9 @@
     ...
     >>> sorted(d.items())
     [('blue', {2, 4}), ('red', {1, 3})]
+    >>> # Nested defaultdict
+    >>> nested_ddict = lambda: defaultdict(nested_ddict)
+    >>> nd = nested_ddict()
     ```
 - [collections.OrderedDict](https://ithelp.ithome.com.tw/articles/10193794)
 - [collections.ChainMap](https://ithelp.ithome.com.tw/articles/10193794)

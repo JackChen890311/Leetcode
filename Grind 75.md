@@ -51,3 +51,5 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 兩種方法：
 - 檢查圖有無 cycle：Traverse + 灰白黑 marking
 - Topological Sort with Kahn's Algorithm (Refer to [[210. Course Schedule II (M)]])
+### [[208. Implement Trie (Prefix Tree) (M)]]
+記得不要覆蓋掉原本的紀錄
