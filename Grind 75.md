@@ -54,4 +54,4 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 ### [[208. Implement Trie (Prefix Tree) (M)]]
 記得不要覆蓋掉原本的紀錄
 ### [[322. Coin Change (M)]]
-還在擔心暴力dp會不會太慢，結果還好
+還在擔心暴力dp會不會太慢
