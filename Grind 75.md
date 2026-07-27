@@ -53,3 +53,5 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 - Topological Sort with Kahn's Algorithm (Refer to [[210. Course Schedule II (M)]])
 ### [[208. Implement Trie (Prefix Tree) (M)]]
 記得不要覆蓋掉原本的紀錄
+### [[322. Coin Change (M)]]
+還在擔心暴力dp會不會太慢，結果還好
