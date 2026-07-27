@@ -23,6 +23,13 @@
 - [LRU Cache](https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html)
 - [How to master DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 ## Python Code Snippets
+### Inline list filtering
+```python
+# Filtering
+a = [x for x in l if x > 0]
+# Conditional operation
+b = [x if x > 0 else -x for x in l]
+```
 ### Basic Data Structure
 - [Initialize a 2d matrix](https://www.geeksforgeeks.org/initialize-matrix-in-python/)
     ```python=
