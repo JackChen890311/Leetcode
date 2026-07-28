@@ -430,3 +430,7 @@
 ### [[3356. Zero Array Transformation II (M)]]
 ### [[3499. Maximize Active Section with Trade I (M)]]
 ### [[3517. Smallest Palindromic Rearrangement I (M)]]
+---
+### [[4000. Largest Integer With Given Digit Sum (E)]]
+### [[4001. Aggregate Two Time Series (M)]]
+### [[4002. Count Valid Sequences (M)]]
