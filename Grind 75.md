@@ -59,3 +59,5 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 第一次寫，注意不能用除的
 ### [[155. Min Stack (M)]]
 Original Stack + Monotonic Stack
+### [[200. Number of Islands (M)]]
+### [[994. Rotting Oranges (M)]]
