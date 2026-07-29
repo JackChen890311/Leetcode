@@ -179,6 +179,7 @@
 ### [[704. Binary Search (E)]]
 ### [[705. Design HashSet (E)]]
 ### [[714. Best Time to Buy and Sell Stock with Transaction Fee (M)]]
+### [[721. Accounts Merge (M)]]
 ### [[724. Find Pivot Index (E)]]
 ### [[733. Flood Fill (E)]]
 ### [[739. Daily Temperatures (M)]]

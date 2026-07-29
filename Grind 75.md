@@ -72,3 +72,7 @@ Think of this problem as "Unbounded Knapsack Problem" but the result we want is 
 前面做 [[57. Insert Interval (M)]] 的時候做過
 ### [[236. Lowest Common Ancestor of a Binary Tree (M)]]
 前面做過
+### [[981. Time Based Key-Value Store (M)]]
+### [[721. Accounts Merge (M)]]
+### [[75. Sort Colors (M)]]
+第二次做，明明知道概念但一直做不出來 ==
