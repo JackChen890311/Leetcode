@@ -61,3 +61,5 @@ Multi-source BFS，將所有 0 都加入初始節點，並在 traverse 時加入
 Original Stack + Monotonic Stack
 ### [[200. Number of Islands (M)]]
 ### [[994. Rotting Oranges (M)]]
+跟 [[542. 01 Matrix (M)]] 類似，只是換成三種狀態
+### [[33. Search in Rotated Sorted Array (M)]]
