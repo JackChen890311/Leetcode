@@ -67,3 +67,8 @@ Original Stack + Monotonic Stack
 ### [[39. Combination Sum (M)]]
 正常來說應該要用 backtracking，但我覺得他長得很像前幾天做的 [[518. Coin Change II (M)]]
 Think of this problem as "Unbounded Knapsack Problem" but the result we want is the item in the knapsack. Same approach with a little tweak will do the work.
+### [[46. Permutations (M)]]
+### [[56. Merge Intervals (M)]]
+前面做 [[57. Insert Interval (M)]] 的時候做過
+### [[236. Lowest Common Ancestor of a Binary Tree (M)]]
+前面做過

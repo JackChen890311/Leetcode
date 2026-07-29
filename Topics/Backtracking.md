@@ -5,7 +5,7 @@
 ### 90. Subsets II (M)
 Contain duplicates compare to 78
 ### [[46. Permutations (M)]]
-### 47. Permutations II (M)
+### [[47. Permutations II (M)]]
 Contain duplicates compare to 46
 ### [[39. Combination Sum (M)]]
 ### 40. Combination Sum II (M)
