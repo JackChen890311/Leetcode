@@ -63,3 +63,5 @@ Original Stack + Monotonic Stack
 ### [[994. Rotting Oranges (M)]]
 跟 [[542. 01 Matrix (M)]] 類似，只是換成三種狀態
 ### [[33. Search in Rotated Sorted Array (M)]]
+分兩段判斷：前半 / 後半，可以用比較大小 or 減去第一項的方式來看，再根據在哪一半決定怎麼移動
+### [[39. Combination Sum (M)]]
