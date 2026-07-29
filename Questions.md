@@ -52,6 +52,7 @@
 ### [[88. Merge Sorted Array (E)]]
 ### [[94. Binary Tree Inorder Traversal (E)]]
 ### [[97. Interleaving String (M)]]
+### [[98. Validate Binary Search Tree (M)]]
 ### [[100. Same Tree (E)]]
 ### [[101. Symmetric Tree (E)]]
 ### [[102. Binary Tree Level Order Traversal (M)]]
@@ -433,6 +434,7 @@
 ### [[3355. Zero Array Transformation I (M)]]
 ### [[3356. Zero Array Transformation II (M)]]
 ### [[3499. Maximize Active Section with Trade I (M)]]
+### [[3513. Number of Unique XOR Triplets I (M)]]
 ### [[3517. Smallest Palindromic Rearrangement I (M)]]
 ---
 ### [[4000. Largest Integer With Given Digit Sum (E)]]
