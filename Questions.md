@@ -395,6 +395,7 @@
 ### [[3005. Count Elements With Maximum Frequency (E)]]
 ### [[3011. Find if Array Can Be Sorted (M)]]
 ### [[3014. Minimum Number of Pushes to Type Word I (E)]]
+### [[3016. Minimum Number of Pushes to Type Word II (M)]]
 ### [[3069. Distribute Elements Into Two Arrays I (E)]]
 ### [[3070. Count Submatrices with Top-Left Element and Sum Less Than k (M)]]
 ### [[3071. Minimum Operations to Write the Letter Y on a Grid (M)]]
