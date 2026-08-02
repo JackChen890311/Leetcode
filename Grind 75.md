@@ -89,3 +89,14 @@ Think of this problem as "Unbounded Knapsack Problem" but the result we want is 
 第二次做，明明知道概念但一直做不出來 ==
 
 ---
+### [[139. Word Break (M)]]
+第一次做，原本想用 graph + traversal 的方式，但這樣時間複雜度會太高，還要處理 "aaaaa" 這種問題
+DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪掉這個字的長度的地方，是否可以抵達，好聰明！
+反正我們不關心走法，只關心能不能抵達
+### [[416. Partition Equal Subset Sum (M)]]
+### [[8. String to Integer (atoi) (M)]]
+### [[54. Spiral Matrix (M)]]
+ 要注意超出邊界 & 碰到重複的都要轉向
+### [[78. Subsets (M)]]
+用 bitmask 來做不錯
+### [[199. Binary Tree Right Side View (M)]]
