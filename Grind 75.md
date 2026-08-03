@@ -94,6 +94,8 @@ Think of this problem as "Unbounded Knapsack Problem" but the result we want is 
 DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪掉這個字的長度的地方，是否可以抵達，好聰明！
 反正我們不關心走法，只關心能不能抵達
 ### [[416. Partition Equal Subset Sum (M)]]
+卡住了，沒啥頭緒，可以用背包問題來解（放入等於總價值一半的物品）
+！！！一維 DP + 用 set 紀錄可以到達的所有數字，如果一半中途出現就是可以抵達，真是高明...
 ### [[8. String to Integer (atoi) (M)]]
 ### [[54. Spiral Matrix (M)]]
  要注意超出邊界 & 碰到重複的都要轉向
