@@ -440,6 +440,7 @@
 ### [[3499. Maximize Active Section with Trade I (M)]]
 ### [[3513. Number of Unique XOR Triplets I (M)]]
 ### [[3517. Smallest Palindromic Rearrangement I (M)]]
+### [[3731. Find Missing Elements (E)]]
 ---
 ### [[4000. Largest Integer With Given Digit Sum (E)]]
 ### [[4001. Aggregate Two Time Series (M)]]
