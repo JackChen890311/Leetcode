@@ -3,6 +3,7 @@
  - [Grind 75 (No hard, by topic)](https://www.techinterviewhandbook.org/grind75?difficulty=Easy&difficulty=Medium&order=topics)
  - [[Grind 75]]
  - [Neetcode](https://neetcode.io/practice)
+ - [Coding interview study plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
 
 ## Python 常見操作複雜度
 參考 [Python Complexity](https://wiki.python.org/moin/TimeComplexity)
