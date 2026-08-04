@@ -113,3 +113,6 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 裡面有證明可以看
 ### [[17. Letter Combinations of a Phone Number (M)]]
 經典 [[Backtracking]] 題目！第三次做輕鬆解決～
+### [[79. Word Search (M)]]
+原本用 dfs 搭配紀錄走過的地方來做，很慢（visited set 要 copy），去看才又發現可以用 backtracking 來做比較快（精神是因為走過的不能再走所以可以用 backtracking?）
+### [[438. Find All Anagrams in a String (M)]]
