@@ -110,4 +110,6 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 ---
 ### [[11. Container With Most Water (M)]]
 原本在想用 monotonic stack 做，覺得怪怪的，結果不是，就 [[Two Pointers]] 移動模擬計算就好
-裡面有證明可以砍
+裡面有證明可以看
+### [[17. Letter Combinations of a Phone Number (M)]]
+經典 [[Backtracking]] 題目！第三次做輕鬆解決～
