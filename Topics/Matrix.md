@@ -58,3 +58,19 @@ while queue:
             visited.add((nx, ny))  # 標記為訪問過
             queue.append((nx, ny))  # 加入到隊列中等待處理
 ```
+# Which to use, BFS / DFS / Backtracking?
+- 第一步:問自己「這題要不要走回頭路(revisit)?」
+	- **不能重複走同一格,而且要探索所有可能路徑** → Backtracking
+	- **每格只走一次,找最短路徑或連通區域** → BFS / DFS(不需要 backtracking,因為不會回頭)
+	這是最關鍵的分岔點。像 [[79. Word Search (M)]],同一格在**同一條路徑**裡不能重複用(所以要標記),但**換一條路徑後又要恢復原狀重新嘗試**,這種「嘗試 → 失敗就撤銷 → 換下一個可能性」的模式,就是 backtracking 的標誌。
+- 第二步:如果不需要 backtracking,再問「要不要求最短距離/最少步數?」
+	- **要最短路徑、最少步數、最少層數** → BFS(因為 BFS 是一層一層擴散,第一次碰到終點時保證是最短路徑)
+	    - 例:迷宮最短路徑、[[994. Rotting Oranges (M)]]、[[752. Open the Lock (M)]]
+	- **只要判斷連通性、找出所有連通區域、計算面積、標記訪問過的格子** → DFS 或 BFS 皆可,通常 DFS 寫起來遞迴比較簡潔
+	    - 例:[[200. Number of Islands (M)]]、[[733. Flood Fill (E)]]、連通分量計算
+- 題目要不要求「所有可能的解 / 路徑」?
+	├─ 是 → 需要撤銷嘗試嗎(同一格在不同路徑可重複用)?
+		└─ 是 → [[Backtracking]]
+	└─ 否(只要判斷存在性 / 連通性 / 最短路徑)
+		├─ 要最短路徑或最少步數 → [[Breadth-First Search]]
+		└─ 只要連通性、面積、標記 → [[Depth-First Search]] (或 BFS,效果相同)
