@@ -1,4 +1,5 @@
 - Representations: Adjacency Matrix / Adjacency List
+	- Can use set in adjacency list representation
 	![[Pasted image 20240126151636.png]]
 - [Conneted Component](https://web.ntnu.edu.tw/~algo/ConnectedComponent.html)
 	- BCC, SCC, Tarjan's Algorithm, [Kosaraju's Algorithm](https://www.cnblogs.com/RioTian/p/14026585.html)
