@@ -116,3 +116,9 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 ### [[79. Word Search (M)]]
 原本用 dfs 搭配紀錄走過的地方來做，很慢（visited set 要 copy），去看才又發現可以用 backtracking 來做比較快（精神是因為走過的不能再走所以可以用 backtracking?）
 ### [[438. Find All Anagrams in a String (M)]]
+### [[310. Minimum Height Trees (M)]]
+笑死我上次也只留了 TODO 在裡面
+### [[621. Task Scheduler (M)]]
+### [[146. LRU Cache (M)]]
+---
+### [[230. Kth Smallest Element in a BST (M)]]
