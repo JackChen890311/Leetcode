@@ -118,7 +118,11 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 ### [[438. Find All Anagrams in a String (M)]]
 ### [[310. Minimum Height Trees (M)]]
 笑死我上次也只留了 TODO 在裡面
+解答：用撥洋蔥的方式，每次都把所有的 leaves 全部丟掉，剩下的就是最長路徑的中間那幾點了（因為最晚被撥洋蔥去掉）
 ### [[621. Task Scheduler (M)]]
+ 用數學就可以算出來了
 ### [[146. LRU Cache (M)]]
+TODO
+
 ---
 ### [[230. Kth Smallest Element in a BST (M)]]
