@@ -122,7 +122,7 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 ### [[621. Task Scheduler (M)]]
  用數學就可以算出來了，點進去看細節
 ### [[146. LRU Cache (M)]]
-TODO
+點進去看，Hash + Doubly Linked List
 
 ---
 ### [[230. Kth Smallest Element in a BST (M)]]
