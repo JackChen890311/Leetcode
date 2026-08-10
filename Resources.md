@@ -105,6 +105,16 @@ b = [x if x > 0 else -x for x in l]
     ```
 - [collections.OrderedDict](https://ithelp.ithome.com.tw/articles/10193794)
 - [collections.ChainMap](https://ithelp.ithome.com.tw/articles/10193794)
+	```python
+	from collections import ChainMap
+	a_dict = {'a1':1, 'a2':2, 'c1':3}
+	b_dict = {'b1':4, 'b2':5, 'b3':6} 
+	c_dict = {'c1':7, 'c2':8, 'c3':9} 
+	
+	dicts = ChainMap(a_dict,b_dict,c_dict) # a -> b -> c
+	print(dicts['a2']) # 2 
+	print(dicts['c1']) # 3 而不是 7
+	```
 - [collections.Counter](https://docs.python.org/zh-tw/3/library/collections.html#counter-objects)
 	```python=
 	>>> c = Counter('gallahad')                 # a new counter from an iterable
