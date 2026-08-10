@@ -126,3 +126,7 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 
 ---
 ### [[230. Kth Smallest Element in a BST (M)]]
+### [[76. Minimum Window Substring (H)]]
+有點像 [[438. Find All Anagrams in a String (M)]]
+用 idx 來紀錄結果，不要複製字串，會比較快
+用一個 counter 檢查是不是 freq 剪掉後都 <= 0 就好，就不用比兩個 freq
