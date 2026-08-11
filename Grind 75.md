@@ -134,3 +134,4 @@ DP 的方式很漂亮，針對每個位置，每個字，去看這個位置剪�
 BFS -> String (including null) -> Build Tree using 2 queue
 When building tree, queue keeping track of next new node / next parent, take 2 new node as children then push to parent queue
 Do not push null to parent queue or remember to handle it
+### [[42. Trapping Rain Water (H)]]
