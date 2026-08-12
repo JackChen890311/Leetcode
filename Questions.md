@@ -397,6 +397,7 @@
 ### [[2914. Minimum Number of Changes to Make Binary String Beautiful (M)]]
 ### [[2938. Separate Black and White Balls (M)]]
 ### [[2966. Divide Array Into Arrays With Max Difference (M)]]
+### [[2996. Smallest Missing Integer Greater Than Sequential Prefix Sum (E)]]
 ### [[2997. Minimum Number of Operations to Make Array XOR Equal to K (M)]]
 ### [[3005. Count Elements With Maximum Frequency (E)]]
 ### [[3011. Find if Array Can Be Sorted (M)]]
