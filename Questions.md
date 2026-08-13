@@ -124,6 +124,7 @@
 ### [[268. Missing Number (E)]]
 ### [[278. First Bad Version(E)]]
 ### [[279. Perfect Squares (M)]]
+### [[295. Find Median from Data Stream (H)]]
 ### [[297. Serialize and Deserialize Binary Tree (H)]]
 ### [[300. Longest Increasing Subsequence (M)]]
 ### [[310. Minimum Height Trees (M)]]

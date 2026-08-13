@@ -135,3 +135,7 @@ BFS -> String (including null) -> Build Tree using 2 queue
 When building tree, queue keeping track of next new node / next parent, take 2 new node as children then push to parent queue
 Do not push null to parent queue or remember to handle it
 ### [[42. Trapping Rain Water (H)]]
+### [[295. Find Median from Data Stream (H)]]
+Cool Question! Solve it in the first try!
+看到 Heap 之後就萌生出了想法：用 max heap + min heap 來存 sorted array 的前半跟後半
+因為我們只要算 median，只要維持著 max heap[0] 跟 min heap [0] 就好（前半最大 + 後半最小），如果奇數就丟某邊就好
