@@ -139,3 +139,7 @@ Do not push null to parent queue or remember to handle it
 Cool Question! Solve it in the first try!
 看到 Heap 之後就萌生出了想法：用 max heap + min heap 來存 sorted array 的前半跟後半
 因為我們只要算 median，只要維持著 max heap[0] 跟 min heap [0] 就好（前半最大 + 後半最小），如果奇數就丟某邊就好
+### [[127. Word Ladder (H)]]
+自己想出來！先把 word list 轉換成 graph，再做 BFS 找到終點即可，但這樣有點慢
+有更快的做法是與其比較所有的 word pair 是不是差一個字 O(N^2 L)，可以用刪除其中一個字的方式來找鄰居 O(N L^2) (hit -> \*it, h\*t, hi\* )，當 N >> L 時會快很多
+標準做法好像是用雙向的 BFS 來加速，但我覺得好像也沒必要？
