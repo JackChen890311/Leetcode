@@ -416,6 +416,7 @@
 ### [[3083. Existence of a Substring in a String and Its Reverse (E)]]
 ### [[3084. Count Substrings Starting and Ending with Given Character (M)]]
 ### [[3085. Minimum Deletions to Make String K-Special (M)]]
+### [[3090. Maximum Length Substring With Two Occurrences (E)]]
 ### [[3097. Shortest Subarray With OR at Least K II (M)]]
 ### [[3099. Harshad Number (E)]]
 ### [[3100. Water Bottles II (M)]]
