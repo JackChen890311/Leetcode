@@ -107,6 +107,7 @@
 ### [[217. Contains Duplicate (E)]]
 ### [[221. Maximal Square (M)]]
 ### [[223. Rectangle Area (M)]]
+### [[224. Basic Calculator (H)]]
 ### [[225. Implement Stacks using Queue (E)]]
 ### [[226. Invert Binary Tree (E)]]
 ### [[228. Summary Ranges (E)]]
