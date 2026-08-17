@@ -143,3 +143,8 @@ Cool Question! Solve it in the first try!
 自己想出來！先把 word list 轉換成 graph，再做 BFS 找到終點即可，但這樣有點慢
 有更快的做法是與其比較所有的 word pair 是不是差一個字 O(N^2 L)，可以用刪除其中一個字的方式來找鄰居 O(N L^2) (hit -> \*it, h\*t, hi\* )，當 N >> L 時會快很多
 標準做法好像是用雙向的 BFS 來加速，但我覺得好像也沒必要？
+### [[224. Basic Calculator (H)]]
+Solve [[150. Evaluate Reverse Polish Notation (M)]] first to solve this one
+Infix expression -> Postfix expression (RPN) -> Evaluate RPN
+[Shunting Yard Algorithm](https://zh.wikipedia.org/zh-tw/%E8%B0%83%E5%BA%A6%E5%9C%BA%E7%AE%97%E6%B3%95): infix -> postfix
+好題目，但真的是蠻難的
