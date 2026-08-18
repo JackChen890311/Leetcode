@@ -150,3 +150,7 @@ Infix expression -> Postfix expression (RPN) -> Evaluate RPN
 好題目，但真的是蠻難的
 ### [[1235. Maximum Profit in Job Scheduling (H)]]
 TODO
+### [[23. Merge k Sorted Lists (H)]]
+Easy Hard, 就把所有 Linked list 推進 Heap（用他們的 value 當作 key），然後創建一個新的 List 把照順序 pop 出來的結果存下來就好
+### [[84. Largest Rectangle in Histogram (H)]]
+忘記了 QQ
