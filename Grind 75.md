@@ -153,7 +153,7 @@ TODO
 ### [[23. Merge k Sorted Lists (H)]]
 Easy Hard, 就把所有 Linked list 推進 Heap（用他們的 value 當作 key），然後創建一個新的 List 把照順序 pop 出來的結果存下來就好
 ### [[84. Largest Rectangle in Histogram (H)]]
-忘記了 QQ
+忘記了 QQ，針對每個 height，假設他決定高（一定會有一個是高的 Bound），用它來找寬（左邊比他短但最大的～右邊比他短但最大的），計算面積即可
 
 ---
 # Extra: Medium
