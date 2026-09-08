@@ -456,7 +456,7 @@
 ### [[3513. Number of Unique XOR Triplets I (M)]]
 ### [[3517. Smallest Palindromic Rearrangement I (M)]]
 ### [[3731. Find Missing Elements (E)]]
----
+### [[3904. Smallest Stable Index II (M)]]
 ### [[4000. Largest Integer With Given Digit Sum (E)]]
 ### [[4001. Aggregate Two Time Series (M)]]
 ### [[4002. Count Valid Sequences (M)]]
