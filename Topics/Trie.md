@@ -1,5 +1,6 @@
 - Use recursive default dict
 - When inserting a word, use `curr = curr[c] for c in word`, also add a `END` when finish
+- [[208. Implement Trie (Prefix Tree) (M)]]:
 ```python
 class Trie:
     def __init__(self):
@@ -29,11 +30,11 @@ class Trie:
     def startsWith(self, prefix: str) -> bool:
         status, curr_tree = self._search_tool(prefix)
         return status
-
-
-# Your Trie object will be instantiated and called as such:
-# obj = Trie()
-# obj.insert(word)
-# param_2 = obj.search(word)
-# param_3 = obj.startsWith(prefix)
+```
+-  Or using a self-defined trie node
+```python
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.is_end = False
 ```
