@@ -106,6 +106,7 @@
 ### [[208. Implement Trie (Prefix Tree) (M)]]
 ### [[209. Minimum Size Subarray Sum (M)]]
 ### [[210. Course Schedule II (M)]]
+### [[211. Design Add and Search Words Data Structure (M)]]
 ### [[213. House Robber II (M)]]
 ### [[215. Kth Largest Element in an Array (M)]]
 ### [[217. Contains Duplicate (E)]]
