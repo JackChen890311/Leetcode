@@ -1,2 +1,2 @@
 - 基本上就是 [[Two Pointers]] 中的快慢指標找環
-- [[Leetcode with JavaScript] 刷題筆記 — 特殊方法 Floyd’s Cycle Detection](https://medium.com/life-after-hello-world/leetcode-with-javascript-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-%E7%89%B9%E6%AE%8A%E6%96%B9%E6%B3%95-floyds-cycle-detection-b0081ace7b69)
+- [Leetcode with JavaScript 刷題筆記 — 特殊方法 Floyd’s Cycle Detection](https://medium.com/life-after-hello-world/leetcode-with-javascript-%E5%88%B7%E9%A1%8C%E7%AD%86%E8%A8%98-%E7%89%B9%E6%AE%8A%E6%96%B9%E6%B3%95-floyds-cycle-detection-b0081ace7b69)
