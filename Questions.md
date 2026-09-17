@@ -66,6 +66,7 @@
 ### [[108. Convert Sorted Array to Binary Search Tree (E)]]
 ### [[110. Balanced Binary Tree (E)]]
 ### [[111. Minimum Depth of Binary Tree (E)]]
+### [[112. Path Sum (E)]]
 ### [[118. Pascal's Triangle (E)]]
 ### [[119. Pascal's Triangle II (E)]]
 ### [[120. Triangle (M)]]
