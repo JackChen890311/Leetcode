@@ -2,3 +2,7 @@
 - [[Stack]] Implementation
 - Recursion Implementation
 - See [[Matrix]] and [[Graph]] for more details
+- Complexity:
+	- Time: O(V + E) for adjacency list & O(V^2) for adjacency matrix
+	- Space: O(V) (but matrix requires O(V^2))
+	- V = number of vertices, E = number of edges
