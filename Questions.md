@@ -153,6 +153,7 @@
 ### [[386. Lexicographical Numbers (M)]]
 ### [[387. First Unique Character in a String (E)]]
 ### [[392. Is Subsequence (E)]]
+### [[394. Decode String (M)]]
 ### [[399. Evaluate Division (M)]]
 ### [[402. Remove K Digits (M)]]
 ### [[404. Sum of Left Leaves (E)]]
