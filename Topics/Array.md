@@ -13,6 +13,8 @@ def checkOverlap(int1: List[int], int2: List[int]) -> bool:
 - `start₁ > end₂` 反過來 ➡️ `start₁ <= end₂`（意即：A 開始得夠早，有機會在 B 結束前碰到）
 當這兩個反過來的條件**同時成立**（AND）時，它們就一定塞在同一個區間內，也就是重疊了！
 
+下圖 1~4 為重疊，5 為不重疊
+![[Pasted image 20261001192247.png]]
 ## Merge 2 interval
 - Check if overlap first
 - Then take min and max
