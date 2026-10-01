@@ -6,7 +6,7 @@
 ```python=
 	import heapq
 	heap = [9,7,5,3,1]
-	heapq.heapify(heap) # O(N)
+	heapq.heapify(heap) # inplace, O(N)
 	heapq.heappush(heap, 2)
 	_ = heapq.heappop(heap)
 	_ = heapq.heappushpop(heap, 2) # push -> pop

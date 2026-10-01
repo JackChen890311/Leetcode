@@ -30,6 +30,7 @@
 ### [[42. Trapping Rain Water (H)]]
 ### [[46. Permutations (M)]]
 ### [[47. Permutations II (M)]]
+### [[48. Rotate Image (M)]]
 ### [[49. Group Anagrams (M)]]
 ### [[50. Pow(x, n) (M)]]
 ### [[53. Maximum Subarray (M)]]
