@@ -178,6 +178,7 @@
 ### [[514. Freedom Trail (H)]]
 ### [[518. Coin Change II (M)]]
 ### [[525. Contiguous Array (M)]]
+### [[528. Random Pick with Weight (M)]]
 ### [[530. Minimum Absolute Difference in BST (E)]]
 ### [[538. Convert BST to Greater Tree (M)]]
 ### [[542. 01 Matrix (M)]]
