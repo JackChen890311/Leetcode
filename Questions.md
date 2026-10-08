@@ -260,6 +260,7 @@
 ### [[997. Find the Town Judge (E)]]
 ### [[1004. Max Consecutive Ones III (M)]]
 ### [[1020. Number of Enclaves (M)]]
+### [[1021. Remove Outermost Parentheses (E)]]
 ### [[1026. Maximum Difference Between Node and Ancestor (M)]]
 ### [[1027. Longest Arithmetic Subsequence (M)]]
 ### [[1038. Binary Search Tree to Greater Sum Tree (M)]]
