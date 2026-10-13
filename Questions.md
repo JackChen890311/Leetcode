@@ -56,6 +56,7 @@
 ### [[84. Largest Rectangle in Histogram (H)]]
 ### [[85. Maximal Rectangle (H)]]
 ### [[88. Merge Sorted Array (E)]]
+### [[91. Decode Ways (M)]]
 ### [[92. Reverse Linked List II (M)]]
 ### [[94. Binary Tree Inorder Traversal (E)]]
 ### [[97. Interleaving String (M)]]
