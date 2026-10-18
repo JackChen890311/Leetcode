@@ -47,6 +47,7 @@
 ### [[67. Add Binary (E)]]
 ### [[69. Sqrt(x) (E)]]
 ### [[70. Climbing Stairs (E)]]
+### [[73. Set Matrix Zeroes (M)]]
 ### [[74. Search a 2D Matrix (M)]]
 ### [[75. Sort Colors (M)]]
 ### [[76. Minimum Window Substring (H)]]
