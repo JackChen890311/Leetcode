@@ -4,6 +4,7 @@
 ### [[4. Median of Two Sorted Arrays (H)]]
 ### [[5. Longest Palindromic Substring (M)]]
 ### [[6. Zigzag Conversion (M)]]
+### [[7. Reverse Integer (M)]]
 ### [[8. String to Integer (atoi) (M)]]
 ### [[9. Palindrome Number (E)]]
 ### [[11. Container With Most Water (M)]]
