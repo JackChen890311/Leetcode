@@ -40,6 +40,7 @@
 ### [[56. Merge Intervals (M)]]
 ### [[57. Insert Interval (M)]]
 ### [[58. Length of Last Word (E)]]
+### [[61. Rotate List (M)]]
 ### [[62. Unique Paths (M)]]
 ### [[63. Unique Paths II (M)]]
 ### [[64. Minimum Path Sum (M)]]
